@@ -1,7 +1,0 @@
-numpy>=1.24.0
-scipy>=1.10.0
-matplotlib>=3.7.0
-cma>=3.3.0
-pyaedt>=0.8.0
-pyyaml>=6.0
-pydantic>=2.0.0
